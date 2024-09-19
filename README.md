@@ -32,7 +32,7 @@ pip install pandas reportlab
 1. Clone the Repository
 First, clone the repository to your local machine:\
 ```
-https://github.com/yourusername/invoice_generator.git
+https://github.com/rahulgowdaa/invoice_generator.git
 cd invoice_generator
 ```
 2. Install Dependencies
